@@ -1,1 +1,2 @@
 file ini masih awal (pertama)
+file setlah commit, lalu ditambah baris baru (kedua)

@@ -1,2 +1,0 @@
-berisikan file conflict (karena di github sudah punya file ini)
-file conflict
